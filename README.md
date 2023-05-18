@@ -4,4 +4,8 @@
 
 🏋️‍♂️ Passionate about hitting the gym and pushing my limits to achieve fitness goals. 💪
 
+💻 My most used programming languages:
+   - Python 🐍
+   - C 💻
+ 
 🌟 Let's connect, collaborate, and create remarkable things together! 🤝
