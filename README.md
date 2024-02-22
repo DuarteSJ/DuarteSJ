@@ -17,4 +17,3 @@
 <br>
 
 📧 Feel free to reach out to me via email at: ddduarte@sapo.pt
-pára de ler isto mariana
