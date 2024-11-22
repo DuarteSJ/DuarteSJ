@@ -1,6 +1,3 @@
-📧 Feel free to reach out to me via email at: ddduarte@sapo.ptDuarteSJ
-
-
 # Hi there, I'm **DuarteSJ**! 👋
 
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:ddduarte@sapo.ptDuarteSJ)
@@ -19,11 +16,3 @@
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DuarteSJ&theme=radical)
-
-## 📊 Coding Activity
-![DuarteSJ's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DuarteSJ&theme=github)
-
-
-## ✨ Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/duarte-s%C3%A3o-jos%C3%A9-19a665304/)
-
